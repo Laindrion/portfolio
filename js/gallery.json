@@ -1,0 +1,56 @@
+[
+    {
+        "src": "images/portfolio/portfolio-1.jpg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 1",
+        "link": "images/portfolio/portfolio-1.jpg"
+    },
+    {
+        "src": "images/portfolio/portfolio-2.jpg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 2",
+        "link": "images/portfolio/portfolio-2.jpg"
+    },
+    {
+        "src": "images/portfolio/portfolio-3.jpg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 3",
+        "link": "images/portfolio/portfolio-3.jpg"
+    },
+    {
+        "src": "images/portfolio/portfolio-4.jpg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 4",
+        "link": "images/portfolio/portfolio-4.jpg"
+    },
+    {
+        "src": "images/portfolio/portfolio-5.jpg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 5",
+        "link": "images/portfolio/portfolio-5.jpg"
+    },
+    {
+        "src": "images/portfolio/portfolio-6.jpg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 6",
+        "link": "images/portfolio/portfolio-6.jpg"
+    },
+    {
+        "src": "images/portfolio/portfolio-7.jpg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 7",
+        "link": "images/portfolio/portfolio-7.jpg"
+    },
+    {
+        "src": "images/portfolio/portfolio-8.jpeg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 8",
+        "link": "images/portfolio/portfolio-8.jpeg"
+    },
+    {
+        "src": "images/portfolio/portfolio-9.jpeg",
+        "alt": "Photo of Portfolio",
+        "caption": "This is the image of portfolio number 9",
+        "link": "images/portfolio/portfolio-9.jpeg"
+    }
+]
